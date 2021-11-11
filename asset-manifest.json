@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tours-React/static/css/main.f952eeb9.chunk.css",
+    "main.js": "/Tours-React/static/js/main.679700e1.chunk.js",
+    "main.js.map": "/Tours-React/static/js/main.679700e1.chunk.js.map",
+    "runtime-main.js": "/Tours-React/static/js/runtime-main.4da75148.js",
+    "runtime-main.js.map": "/Tours-React/static/js/runtime-main.4da75148.js.map",
+    "static/js/2.284027ba.chunk.js": "/Tours-React/static/js/2.284027ba.chunk.js",
+    "static/js/2.284027ba.chunk.js.map": "/Tours-React/static/js/2.284027ba.chunk.js.map",
+    "static/js/3.d9e3a879.chunk.js": "/Tours-React/static/js/3.d9e3a879.chunk.js",
+    "static/js/3.d9e3a879.chunk.js.map": "/Tours-React/static/js/3.d9e3a879.chunk.js.map",
+    "index.html": "/Tours-React/index.html",
+    "static/css/main.f952eeb9.chunk.css.map": "/Tours-React/static/css/main.f952eeb9.chunk.css.map",
+    "static/js/2.284027ba.chunk.js.LICENSE.txt": "/Tours-React/static/js/2.284027ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da75148.js",
+    "static/js/2.284027ba.chunk.js",
+    "static/css/main.f952eeb9.chunk.css",
+    "static/js/main.679700e1.chunk.js"
+  ]
+}
